@@ -1,0 +1,35 @@
+
+.userDetailsDiv{
+  padding-top: 50px;
+}
+.userDetails {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.userform {
+  text-align: center;
+  padding-top: 10px;
+}
+.userName {
+  padding-bottom: 1px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.button {
+  padding-top: 15px
+}
+.buttonRem {
+  padding-right: 5px;
+  background-color: red;
+}
+.buttonSub {
+  background-color: green
+}
+.userName {
+  padding-bottom: 10px;
+}
+
+
