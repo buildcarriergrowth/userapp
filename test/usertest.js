@@ -7,5 +7,8 @@ describe("Userdetails component",function(){
     it("testig",function(){
         expect(true).to.be.ok;  
         expect(true).to.be.ok;
+        expect(true).to.be.ok;  
+        expect(true).to.be.ok;
+
     })
 })
